@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Snook
-
+- i have 21 years
+- i am from brazil
+- 
 
 <!---
 Snook085/Snook085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
