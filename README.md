@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snook
+- 👋 Hi, I’m Deivid
 - i have 21 years
 - i am from brazil
 - 
